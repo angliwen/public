@@ -15,5 +15,8 @@ In this lab, you learn how to perform the following tasks:
 - Configure global dynamic routing mode.
 - Verify and test HA VPN gateway configuration.
 
+## Tasks
+![Task Map](https://github.com/angliwen/public/blob/173539f65c16909c512fc62104e68ea35ecb7717/Configuring%20Google%20Cloud%20HA%20VPN/map.png)
+
 ## Review
 In this lab you configured HA VPN gateways. You also configured dynamic routing with VPN tunnels and configured global dynamic routing mode. Finally you verified that HA VPN is configured and functioning correctly.
