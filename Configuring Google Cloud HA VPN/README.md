@@ -20,3 +20,7 @@ In this lab, you learn how to perform the following tasks:
 
 ## Review
 In this lab you configured HA VPN gateways. You also configured dynamic routing with VPN tunnels and configured global dynamic routing mode. Finally you verified that HA VPN is configured and functioning correctly.
+
+## Disclaimer
+Lab instructions wholly provided by Google.
+Self mapping done for reference.
